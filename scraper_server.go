@@ -1,6 +1,6 @@
 package main
 
-//Link Server (microservice)
+//Scrape Server (microservice)
 //Get links from any website, with associated metadata, to fuel faster downstream scraping from other programs
 
 //See TODO.txt
@@ -71,11 +71,11 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	// example usage: curl -s 'http://127.0.0.1:7171/?url=http://go-colly.org/'
+	// example usage: curl -s 'http://127.0.0.1:7171/links?url=http://go-colly.org/'
 	addr := ":7171"
 
-	http.HandleFunc("/", handler)
+	http.HandleFunc("/links", handler)
 
-	log.Println("listening on", addr)
+	log.Println("listening for [/links] on", addr)
 	log.Fatal(http.ListenAndServe(addr, nil))
 }
