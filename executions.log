@@ -1,0 +1,693 @@
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-03-18 07:34:40.750802564 -0500 CDT
+[=]SCRAPE SERVE[=]Starting NEW SESSION ( d963952b-9a36-444d-853a-ab16ee1641de )- CACHE, enabled (YES)::Duration(24 Hours)
+[=]SCRAPE SERVE[=]listening for [/links] and [/text] on :7171
+[=]SCRAPE SERVE[=]visiting https://news.ycombinator.com
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]BODY::Text request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Hacker Newsnew | past | comments | ask | show | jobs | submitlogin1.Rob Pike's 5 Rules of Programming (unc.edu)94 points by vismit2000 1 hour ago  | hide | 41 comments2.OpenAI Has New Focus (On the IPO) (om.co)19 points by aamederen 30 minutes ago  | hide | 14 comments3.JPEG Compression (sophielwang.com)231 points by vinhnx 6 hours ago  | hide | 47 comments4.Write up of my homebrew CPU build (willwarren.com)88 points by wwarren 5 hours ago  | hide | 13 comments5.How the Eon Team Produced a Virtual Embodied Fly (eon.systems)24 points by LopRabbit 3 hours ago  | hide | 6 comments6.Mistral AI Releases Forge (mistral.ai)508 points by pember 14 hours ago  | hide | 114 comments7.A Decade of Slug (terathon.com)631 points by mwkaufma 16 hours ago  | hide | 62 comments8.Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss' (tomshardware.com)702 points by crtasm 20 hours ago  | hide | 255 comments9.Nightingale – open-source karaoke app that works with any song on your computer (nightingale.cafe)58 points by rzzzzru 3 hours ago  | hide | 11 comments10.Celebrating Tony Hoare's mark on computer science (bertrandmeyer.com)41 points by benhoyt 5 hours ago  | hide | 3 comments11.Python 3.15's JIT is now back on track (fidget-spinner.github.io)390 points by guidoiaquinti 16 hours ago  | hide | 217 comments12.Show HN: Pgit – A Git-like CLI backed by PostgreSQL (oseifert.ch)52 points by ImGajeed76 5 hours ago  | hide | 19 comments13.More than 135 open hardware devices flashable with your own firmware (openhardware.directory)243 points by iosifnicolae2 11 hours ago  | hide | 28 comments14.The pleasures of poor product design (inconspicuous.info)138 points by NaOH 10 hours ago  | hide | 47 comments15.Ndea (YC W26) is hiring a symbolic RL search guidance lead (ndea.com)4 hours ago | hide16.Ask HN: What breaks first when your team grows from 10 to 50 people?21 points by hariprasadr 2 hours ago  | hide | 17 comments17.(Media over QUIC) on a Boat (moq.dev)21 points by mmcclure 3 hours ago  | hide | 2 comments18.Judge orders restoration of Voice of America (apnews.com)13 points by geox 38 minutes ago  | hide | 2 comments19.Get Shit Done: A meta-prompting, context engineering and spec-driven dev system (github.com/gsd-build)352 points by stefankuehnel 15 hours ago  | hide | 177 comments20.Show HN: Sub-millisecond VM sandboxes using CoW memory forking (github.com/adammiribyan)178 points by adammiribyan 11 hours ago  | hide | 46 comments21.Have a fucking website (otherstrangeness.com)474 points by asukachikaru 7 hours ago  | hide | 257 comments22.Unsloth Studio (unsloth.ai)298 points by brainless 20 hours ago  | hide | 57 comments23.Animation 10k Starlink Satellites (spaceweather.com)13 points by MeteorMarc 4 hours ago  | hide | 17 comments24.Honda is killing its EVs (techcrunch.com)340 points by sylvainkalache 1 day ago  | hide | 751 comments25.A tale about fixing eBPF spinlock issues in the Linux kernel (rovarma.com)109 points by y1n0 10 hours ago  | hide | 7 comments26.Why AI systems don't learn – On autonomous learning from cognitive science (arxiv.org)127 points by aanet 13 hours ago  | hide | 66 comments27.Leviathan (1651) (gutenberg.org)85 points by mrwh 8 hours ago  | hide | 26 comments28.Forget Flags and Scripts: Just Rename the File (robertsdotpm.github.io)41 points by Uptrenda 7 hours ago  | hide | 39 comments29.It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video] (youtube.com)252 points by yincrash 17 hours ago  | hide | 99 comments30.Electron microscopy shows ‘mouse bite’ defects in semiconductors (cornell.edu)80 points by hhs 11 hours ago  | hide | 20 commentsMore
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+Search: 
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]visiting https://news.ycombinator.com
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://news.ycombinator.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: newest
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: front
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: newcomments
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: ask
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: show
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: jobs
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: submit
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: login?goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47423647&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=unc.edu
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=vismit2000
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47423647
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47423647&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47423647
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47423976&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=om.co
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=aamederen
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47423976
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47423976&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47423976
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47372367&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.sophielwang.com/blog/jpeg
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=sophielwang.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=vinhnx
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47372367
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47372367&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47372367
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47389696&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=willwarren.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=wwarren
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47389696
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47389696&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47389696
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47393324&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://eon.systems/updates/embodied-brain-emulation
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=eon.systems
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=LopRabbit
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47393324
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47393324&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47393324
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47418295&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://mistral.ai/news/forge
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=mistral.ai
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=pember
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47418295
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47418295&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47418295
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47416736&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://terathon.com/blog/decade-slug.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=terathon.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=mwkaufma
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47416736
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47416736&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47416736
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47413876&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=tomshardware.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=crtasm
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47413876
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47413876&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47413876
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47422942&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://nightingale.cafe/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=nightingale.cafe
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=rzzzzru
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422942
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47422942&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422942
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47422228&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=bertrandmeyer.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=benhoyt
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422228
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47422228&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422228
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47416486&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://fidget-spinner.github.io/posts/jit-on-track.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=fidget-spinner.github.io
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=guidoiaquinti
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47416486
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47416486&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47416486
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47409222&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://oseifert.ch/blog/building-pgit
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=oseifert.ch
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=ImGajeed76
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47409222
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47409222&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47409222
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47369883&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://openhardware.directory
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=openhardware.directory
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=iosifnicolae2
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47369883
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47369883&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47369883
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47420432&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=inconspicuous.info
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=NaOH
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47420432
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47420432&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47420432
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://ndea.com/jobs/search-guidance
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=ndea.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422408
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47422408&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47386284&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47386284
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=hariprasadr
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47386284
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47386284&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47386284
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47372072&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://moq.dev/blog/on-a-boat/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=moq.dev
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=mmcclure
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47372072
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47372072&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47372072
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47424042&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=apnews.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=geox
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47424042
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47424042&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47424042
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47417804&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://github.com/gsd-build/get-shit-done
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=github.com/gsd-build
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=stefankuehnel
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47417804
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47417804&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47417804
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47412569&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://github.com/adammiribyan/zeroboot
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=github.com/adammiribyan
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=adammiribyan
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47412569
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47412569&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47412569
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47421442&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=otherstrangeness.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=asukachikaru
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47421442
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47421442&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47421442
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47414032&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://unsloth.ai/docs/new/studio
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=unsloth.ai
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=brainless
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47414032
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47414032&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47414032
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47422437&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=spaceweather.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=MeteorMarc
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422437
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47422437&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47422437
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47387268&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=techcrunch.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=sylvainkalache
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47387268
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47387268&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47387268
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47420388&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=rovarma.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=y1n0
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47420388
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47420388&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47420388
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47418722&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://arxiv.org/abs/2603.15381
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=arxiv.org
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=aanet
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47418722
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47418722&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47418722
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47384653&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.gutenberg.org/files/3207/3207-h/3207-h.htm
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=gutenberg.org
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=mrwh
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47384653
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47384653&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47384653
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47421513&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://robertsdotpm.github.io/software_engineering/program_names_as_input.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=robertsdotpm.github.io
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=Uptrenda
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47421513
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47421513&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47421513
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47368425&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.youtube.com/watch?v=3Ploi723hg4
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=youtube.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=yincrash
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47368425
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47368425&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47368425
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: vote?id=47371404&how=up&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: from?site=cornell.edu
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: user?id=hhs
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47371404
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: hide?id=47371404&goto=news
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: item?id=47371404
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: ?p=2
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: newsguidelines.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: newsfaq.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: lists
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://github.com/HackerNews/API
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: security.html
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.ycombinator.com/legal/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://www.ycombinator.com/apply/
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at https://news.ycombinator.com/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: mailto:hn@ycombinator.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-03-18 07:40:12.995566154 -0500 CDT
+[=]SCRAPE SERVE[=]Starting NEW SESSION ( 0f669372-e5b1-4e72-9397-f49bb0219c64 )- CACHE, enabled (YES)::Duration(24 Hours)
+[=]SCRAPE SERVE[=]listening for [/links] and [/text] on :7171
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-03-18 07:41:19.430155115 -0500 CDT
+[=]SCRAPE SERVE[=]Starting NEW SESSION ( f28de34a-fb9e-47e9-8ad6-0b23b5918a25 )- CACHE, enabled (YES)::Duration(24 Hours)
+[=]SCRAPE SERVE[=]::SCRAPE SERVE:: => listening for [/links] and [/text] on :7171
