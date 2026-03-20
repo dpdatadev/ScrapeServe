@@ -33,6 +33,7 @@ func main() {
 
 	http.HandleFunc("/links", LinkHandler)
 	http.HandleFunc("/text", TextHandler)
+	http.HandleFunc("/table", TableHandler)
 	log.Printf("Starting NEW SESSION ( %s )- CACHE, enabled (YES)::Duration(24 Hours)\n", sessionid)
 	log.Println(welcomeMessage) //logfile
 	fmt.Println(welcomeMessage) //console

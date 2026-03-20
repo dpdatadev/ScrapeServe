@@ -1,7 +1,7 @@
-Tue Mar 17 06:45:08 AM CDT 2026
+Fri March 20
 
-Add database logging of link queries and better output logging etc as well as create new endpoints for text, images, forms as well
+Add SQLITE?
+
 (?)Add frontend or YAML based configuration (certain link types, allowed domains, etc.,)
 
-Refactor (DRY) handlers.go into more robust server abstraction that encapsulates http functions (or use Gin?)
 Add auth

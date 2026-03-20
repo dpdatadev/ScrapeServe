@@ -1,51 +1,20 @@
 package main
 
 import (
-	"encoding/json"
 	"log"
 	"net/http"
 	"strconv"
-	"time"
+	"strings"
 
 	"github.com/gocolly/colly/v2"
 )
 
-type ScrapeRequest struct {
-	StatusCode int
-	Host       string
-	Method     string
-}
-
-type LinkElement struct {
-	ScrapeRequest
-	Links map[string]int
-}
-
-type PageElement struct {
-	ScrapeRequest
-	Text string
-}
-
-//TODO, refactor
-
+// Scrapes and returns any valid href (hyperlink)
 func LinkHandler(w http.ResponseWriter, r *http.Request) {
-	URL := r.URL.Query().Get("url")
-	if URL == "" {
-		log.Println("missing URL argument")
-		return
-	}
-	log.Println("visiting", URL)
+	URL := GetURL(r)
 
 	// Instantiate default collector
-	c := colly.NewCollector(
-		//colly.AllowedDomains("www.oca.org", "https://news.ycombinator.com/"),
-
-		// Cache responses to prevent multiple download of pages
-		// even if the collector is restarted
-		colly.CacheDir("./cache"),
-		// Cached responses older than the specified duration will be refreshed
-		colly.CacheExpiration(24*time.Hour),
-	)
+	c := GetCollector()
 
 	l := &LinkElement{Links: make(map[string]int)}
 
@@ -77,33 +46,15 @@ func LinkHandler(w http.ResponseWriter, r *http.Request) {
 	c.Visit(URL)
 
 	// dump results
-	b, err := json.Marshal(l)
-	if err != nil {
-		log.Println("failed to serialize response:", err)
-		return
-	}
-	w.Header().Add("Content-Type", "application/json")
-	w.Write(b)
+	WriteHttpJson(l, w)
 }
 
+// Scrapes/dumps all plain text contained in body of the webpage
 func TextHandler(w http.ResponseWriter, r *http.Request) {
-	URL := r.URL.Query().Get("url")
-	if URL == "" {
-		log.Println("missing URL argument")
-		return
-	}
-	log.Println("visiting", URL)
+	URL := GetURL(r)
 
 	// Instantiate default collector
-	c := colly.NewCollector(
-		//colly.AllowedDomains("www.oca.org", "https://news.ycombinator.com/"),
-
-		// Cache responses to prevent multiple download of pages
-		// even if the collector is restarted
-		colly.CacheDir("./cache"),
-		// Cached responses older than the specified duration will be refreshed
-		colly.CacheExpiration(24*time.Hour),
-	)
+	c := GetCollector()
 
 	p := &PageElement{}
 
@@ -133,11 +84,47 @@ func TextHandler(w http.ResponseWriter, r *http.Request) {
 	c.Visit(URL)
 
 	// dump results
-	b, err := json.Marshal(p)
-	if err != nil {
-		log.Println("failed to serialize response:", err)
-		return
-	}
-	w.Header().Add("Content-Type", "application/json")
-	w.Write(b)
+	WriteHttpJson(p, w)
+}
+
+// Scrapes text content from table elements
+func TableHandler(w http.ResponseWriter, r *http.Request) {
+	URL := GetURL(r)
+
+	// Instantiate default collector
+	c := GetCollector()
+
+	var tableTextBuilder strings.Builder
+
+	t := &TableElement{}
+
+	c.OnHTML("tr", func(e *colly.HTMLElement) {
+		log.Printf("BODY::Text request received at %s", e.Request.URL.String())
+		log.Printf("TEXT EXTRACTED: %s", e.Text)
+		//Tag metadata
+		t.Host = e.Request.Host
+		t.Method = e.Request.Method
+		tableTextBuilder.WriteString(e.Text)
+
+		tagString := strconv.Itoa(t.StatusCode) + "::" + t.Method
+		log.Printf("ReqMETA: %s", tagString)
+	})
+
+	// extract status code
+	c.OnResponse(func(r *colly.Response) {
+		log.Println("response received", r.StatusCode)
+		t.StatusCode = r.StatusCode
+	})
+	c.OnError(func(r *colly.Response, err error) {
+		log.Println("error:", r.StatusCode, err)
+		t.StatusCode = r.StatusCode
+	})
+
+	c.Visit(URL)
+
+	//Add body text
+	t.TableText = tableTextBuilder.String()
+
+	// dump results
+	WriteHttpJson(t, w)
 }
