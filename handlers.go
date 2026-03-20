@@ -99,7 +99,7 @@ func TableHandler(w http.ResponseWriter, r *http.Request) {
 	t := &TableElement{}
 
 	c.OnHTML("tr", func(e *colly.HTMLElement) {
-		log.Printf("BODY::Text request received at %s", e.Request.URL.String())
+		log.Printf("TR::TEXT request received at %s", e.Request.URL.String())
 		log.Printf("TEXT EXTRACTED: %s", e.Text)
 		//Tag metadata
 		t.Host = e.Request.Host

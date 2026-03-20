@@ -14,8 +14,6 @@ import (
 	"github.com/google/uuid"
 )
 
-var sessionID string
-
 func init() {
 	log.SetPrefix("[=]SCRAPE SERVE[=]")
 	log.SetFlags(0)
@@ -29,7 +27,7 @@ func main() {
 	// example usage: curl -s 'http://127.0.0.1:7171/text?url=http://go-colly.org/'
 	addr := ":7171"
 	sessionid := uuid.NewString()
-	welcomeMessage := fmt.Sprintf("::SCRAPE SERVE:: => listening for [/links] and [/text] on %s", addr)
+	welcomeMessage := fmt.Sprintf("::SCRAPE SERVE:: => listening for [/links], [/text], [/table] on %s", addr)
 
 	http.HandleFunc("/links", LinkHandler)
 	http.HandleFunc("/text", TextHandler)
