@@ -1,5 +1,7 @@
 Fri March 20
 
+Add images
+
 Add SQLITE?
 
 (?)Add frontend or YAML based configuration (certain link types, allowed domains, etc.,)
