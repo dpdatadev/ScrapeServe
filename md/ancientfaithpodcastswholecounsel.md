@@ -1,9 +1,4 @@
-[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-03-26 06:41:34.474914979 -0500 CDT
-[=]SCRAPE SERVE[=]Starting NEW SESSION ( 0f326b54-f8e3-45fc-9b28-5c1f6c414669 )- CACHE, enabled (YES)::Duration(24 Hours)
-[=]SCRAPE SERVE[=]::SCRAPE SERVE:: => listening for [/links], [/text], [/table], [/md-convert] on :7171
-[=]SCRAPE SERVE[=]visiting https://www.ancientfaith.com/podcasts/wholecounsel/
-[=]SCRAPE SERVE[=]MARKDOWN ReqMETA (url: https://www.ancientfaith.com/podcasts/wholecounsel/): 200::GET
-[=]SCRAPE SERVE[=]Loading...
+Loading...
 
 [![Ancient Faith Ministries](/assets/images/afm-text-white.png)](/)
 
@@ -165,12 +160,3 @@ Revelation 7 9-17, 8:1-13
 [English Talk]()
 
 [English Music]()
-[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-03-26 06:43:03.335015646 -0500 CDT
-[=]SCRAPE SERVE[=]Starting NEW SESSION ( 9e6de14b-340b-448f-bb28-0885913be559 )- CACHE, enabled (YES)::Duration(24 Hours)
-[=]SCRAPE SERVE[=]::SCRAPE SERVE:: => listening for [/links], [/text], [/table], [/md-convert] on :7171
-[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-03-26 06:45:17.791682619 -0500 CDT
-[=]SCRAPE SERVE[=]Starting NEW SESSION ( 83de39c4-9cf9-4870-be84-48ce72b286a2 )- CACHE, enabled (YES)::Duration(24 Hours)
-[=]SCRAPE SERVE[=]::SCRAPE SERVE:: => listening for [/links], [/text], [/table], [/md-convert] on :7171
-[=]SCRAPE SERVE[=]visiting https://www.ancientfaith.com/podcasts/wholecounsel/
-[=]SCRAPE SERVE[=]MARKDOWN ReqMETA (url: https://www.ancientfaith.com/podcasts/wholecounsel/): 200::GET
-[=]SCRAPE SERVE[=]MARKDOWN FILE SAVED to disk: ancientfaithpodcastswholecounsel

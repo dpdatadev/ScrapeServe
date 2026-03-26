@@ -1,6 +1,8 @@
 package main
 
 import (
+	"errors"
+	"io"
 	"log"
 	"net/http"
 	"strconv"
@@ -8,6 +10,61 @@ import (
 
 	"github.com/gocolly/colly/v2"
 )
+
+// Convert all text on page to Markdown doc
+func MarkdownHandler(w http.ResponseWriter, r *http.Request) {
+	var fileName string // Markdown will be written to disk
+	URL := GetURL(r)
+	// Get request to URL
+	response, err := http.Get(URL)
+	if err != nil {
+		log.Println("http GET error:", errors.New(err.Error()))
+		return
+	}
+
+	defer response.Body.Close()
+
+	// Load bytes of request to website
+	body, err := io.ReadAll(response.Body)
+	if err != nil {
+		log.Println("io error:", errors.New(err.Error()))
+		return
+	}
+
+	// Markdown object to hold converted html
+	m := &MarkdownElement{}
+	// Convert the bytes to string
+	tryHtmlString := string(body)
+	// Ensure the new string actually contains HTML, err if it doesn't
+	if IsHTMLContentType(tryHtmlString) {
+		m.Content, err = HTMLToMarkdown(tryHtmlString)
+		if err != nil {
+			log.Println("error:", errors.New(err.Error()))
+		}
+	} else {
+		log.Println("REQUEST MUST BE HTML TO CONVERT TO MARKDOWN")
+		log.Println(tryHtmlString)
+		return
+	}
+	// Assign default metadata
+	m.StatusCode = 200
+	m.Method = r.Method
+	m.Host = r.Host
+	// Track the request
+	tagString := strconv.Itoa(m.StatusCode) + "::" + m.Method
+	log.Printf("MARKDOWN ReqMETA (url: %s): %s", URL, tagString)
+	//Write md document
+	fileName = strings.ReplaceAll(URL, "/", "")
+	fileName = strings.ReplaceAll(fileName, ".com", "")
+	fileName = strings.ReplaceAll(fileName, ".", "")
+	fileName = strings.ReplaceAll(fileName, ":", "")
+	fileName = strings.ReplaceAll(fileName, "www", "")
+	fileName = strings.ReplaceAll(fileName, "https", "")
+	WriteMarkdownFile(fileName, m.Content)
+	log.Printf("MARKDOWN FILE SAVED to disk: %s", fileName)
+	// JSON response
+	WriteHttpJson(m, w)
+}
 
 // Scrapes and returns any valid href (hyperlink)
 func LinkHandler(w http.ResponseWriter, r *http.Request) {

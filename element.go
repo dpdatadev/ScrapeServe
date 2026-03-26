@@ -20,3 +20,8 @@ type TableElement struct {
 	ScrapeRequest
 	TableText string
 }
+
+type MarkdownElement struct {
+	ScrapeRequest
+	Content string
+}

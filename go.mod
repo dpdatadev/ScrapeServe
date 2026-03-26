@@ -2,7 +2,12 @@ module dpdigital/scrpsrv
 
 go 1.24.4
 
-require github.com/gocolly/colly/v2 v2.3.0
+require (
+	github.com/JohannesKaufmann/html-to-markdown/v2 v2.5.0
+	github.com/gocolly/colly/v2 v2.3.0
+)
+
+require github.com/JohannesKaufmann/dom v0.2.0 // indirect
 
 require (
 	github.com/PuerkitoBio/goquery v1.11.0 // indirect

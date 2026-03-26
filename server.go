@@ -27,11 +27,12 @@ func main() {
 	// example usage: curl -s 'http://127.0.0.1:7171/text?url=http://go-colly.org/'
 	addr := ":7171"
 	sessionid := uuid.NewString()
-	welcomeMessage := fmt.Sprintf("::SCRAPE SERVE:: => listening for [/links], [/text], [/table] on %s", addr)
+	welcomeMessage := fmt.Sprintf("::SCRAPE SERVE:: => listening for [/links], [/text], [/table], [/md-convert] on %s", addr)
 
 	http.HandleFunc("/links", LinkHandler)
 	http.HandleFunc("/text", TextHandler)
 	http.HandleFunc("/table", TableHandler)
+	http.HandleFunc("/md", MarkdownHandler)
 	log.Printf("Starting NEW SESSION ( %s )- CACHE, enabled (YES)::Duration(24 Hours)\n", sessionid)
 	log.Println(welcomeMessage) //logfile
 	fmt.Println(welcomeMessage) //console
