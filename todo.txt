@@ -7,3 +7,5 @@ Add SQLITE?
 (?)Add frontend or YAML based configuration (certain link types, allowed domains, etc.,)
 
 Add auth
+
+Remove hardcoded directory writes..

@@ -7,7 +7,10 @@ require (
 	github.com/gocolly/colly/v2 v2.3.0
 )
 
-require github.com/JohannesKaufmann/dom v0.2.0 // indirect
+require (
+	github.com/JohannesKaufmann/dom v0.2.0 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
+)
 
 require (
 	github.com/PuerkitoBio/goquery v1.11.0 // indirect
