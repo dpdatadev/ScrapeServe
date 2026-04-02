@@ -15,7 +15,7 @@ curl -s 'http://127.0.0.1:7171/text?url=http://go-colly.org/'
 curl -s 'http://127.0.0.1:7171/table?url=http://go-colly.org/'
 
 #the whole document, links and all, converted to markdown
-curl -s 'http://127.0.0.1:7171/table?url=http://go-colly.org/'
+curl -s 'http://127.0.0.1:7171/md?url=http://go-colly.org/'
 
 ```
 
