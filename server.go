@@ -1,9 +1,6 @@
 package main
 
 //Scrape Server (microservice)
-//Get links from any website, with associated metadata, to fuel faster downstream scraping from other programs
-
-//See TODO.txt
 
 import (
 	"fmt"
