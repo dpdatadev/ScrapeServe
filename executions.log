@@ -10409,3 +10409,242 @@ Revelation 7 9-17, 8:1-13
 [=]SCRAPE SERVE[=]visiting https://www.ancientfaith.com/podcasts/dailyscriptures/march-22-2026
 [=]SCRAPE SERVE[=]MARKDOWN ReqMETA (url: https://www.ancientfaith.com/podcasts/dailyscriptures/march-22-2026): 200::GET
 [=]SCRAPE SERVE[=]MARKDOWN FILE SAVED to disk: ancientfaithpodcastsdailyscripturesmarch-22-2026
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-04 06:26:26.402385 -0500 CDT
+[=]SCRAPE SERVE[=]Starting NEW SESSION ( 28769165-a7df-4120-8a1a-b2cc2d76aaa9 )- CACHE, enabled (YES)::Duration(24 Hours)
+[=]SCRAPE SERVE[=]::SCRAPE SERVE:: => listening for [/links], [/text], [/table], [/md-convert] on :7171
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:57:57.147101 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50525
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50525/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: x
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:11.02167 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50527
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50527/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Row
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:18.936506 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50529
+[=]SCRAPE SERVE[=]MARKDOWN ReqMETA (url: http://127.0.0.1:50529): 200::GET
+[=]SCRAPE SERVE[=]DIRECTORY ERROR: mkdir /home/dpauley: operation not supported
+[=]SCRAPE SERVE[=]FILE CREATE ERROR: open /home/dpauley/Documents/Code/Apps/Go/scraper_server/md/http12700150529.md: no such file or directory
+[=]SCRAPE SERVE[=]MARKDOWN WRITE DOCUMENT ERROR: invalid argument
+[=]SCRAPE SERVE[=]MARKDOWN FILE SAVED to disk: http12700150529
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:21.782643 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50531
+[=]SCRAPE SERVE[=]REQUEST MUST BE HTML TO CONVERT TO MARKDOWN
+[=]SCRAPE SERVE[=]{"key":"value"}
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:24.026583 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:19999
+[=]SCRAPE SERVE[=]http GET error: Get "http://127.0.0.1:19999": dial tcp 127.0.0.1:19999: connect: connection refused
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:26.370857 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50534
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at http://127.0.0.1:50534/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: /page1
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at http://127.0.0.1:50534/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: /page2
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at http://127.0.0.1:50534/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: https://external.example.com
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:31.146395 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50536
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:33.399925 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50538
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at http://127.0.0.1:50538/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: /dup
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at http://127.0.0.1:50538/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: /dup
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:35.45945 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50540
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]A[HREF]::Link request received at http://127.0.0.1:50540/
+[=]SCRAPE SERVE[=]LINK(s) EXTRACTED: /x
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:37.261849 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50542
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]BODY::Text request received at http://127.0.0.1:50542/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Hello, scraper!More text.
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:39.599751 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50544
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]BODY::Text request received at http://127.0.0.1:50544/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: 
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:41.844471 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50546
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]BODY::Text request received at http://127.0.0.1:50546/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: text
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:43.892216 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50548
+[=]SCRAPE SERVE[=]response received 200
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50548/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: NameAge
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50548/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Alice30
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]TR::TEXT request received at http://127.0.0.1:50548/
+[=]SCRAPE SERVE[=]TEXT EXTRACTED: Bob25
+[=]SCRAPE SERVE[=]ReqMETA: 200::GET
+[=]SCRAPE SERVE[=]SCRAPE BEGIN: 2026-04-07 04:58:46.193353 -0500 CDT
+[=]SCRAPE SERVE[=]visiting http://127.0.0.1:50550
+[=]SCRAPE SERVE[=]response received 200

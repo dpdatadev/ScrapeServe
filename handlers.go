@@ -60,7 +60,7 @@ func MarkdownHandler(w http.ResponseWriter, r *http.Request) {
 	fileName = strings.ReplaceAll(fileName, ":", "")
 	fileName = strings.ReplaceAll(fileName, "www", "")
 	fileName = strings.ReplaceAll(fileName, "https", "")
-	go WriteMarkdownFile(fileName, m.Content)
+	WriteMarkdownFile(fileName, m.Content)
 	log.Printf("MARKDOWN FILE SAVED to disk: %s", fileName)
 	// JSON response
 	WriteHttpJson(m, w)
