@@ -26,13 +26,13 @@ func IsHTMLContentType(ct string) bool {
 
 func WriteMarkdownFile(fileName string, md string) {
 	// Step 1: Ensure the directory exists
-	err := os.MkdirAll("/home/dpauley/Documents/Code/Apps/Go/scraper_server/md", 0755)
+	err := os.MkdirAll("/home/dpauley/Documents/Code/Apps/Go/scraper_server/md", 0755) //TODO, hardcoded dir :(
 	if err != nil {
 		log.Printf("DIRECTORY ERROR: %s", err.Error())
 	}
 
 	// Step 2: Create the file
-	file, err := os.Create(fmt.Sprintf("/home/dpauley/Documents/Code/Apps/Go/scraper_server/md/%s.md", fileName))
+	file, err := os.Create(fmt.Sprintf("/home/dpauley/Documents/Code/Apps/Go/scraper_server/md/%s.md", fileName)) //TODO, hardcoded dir :(
 	if err != nil {
 		log.Printf("FILE CREATE ERROR: %s", err.Error())
 	}
